@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/briwa-angelswing/workflow#readme",
   "dependencies": {
-    "chalk": "^4.1.0",
     "dankyou": "^0.1.2"
+    "chalk": "^2.0.0"
   },
   "devDependencies": {
     "conventional-changelog": "^3.1.24",
