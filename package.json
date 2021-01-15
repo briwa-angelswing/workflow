@@ -1,10 +1,10 @@
 {
-  "name": "workflow",
+  "name": "alalalal",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/briwa-angelswing/workflow#readme",
   "dependencies": {
-    "chalk": "^4.1.0"
+    "dankyou": "^0.1.2"
+    "chalk": "^2.0.0"
   },
   "devDependencies": {
     "conventional-changelog": "^3.1.24",
